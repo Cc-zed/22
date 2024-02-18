@@ -95,7 +95,7 @@ def parse():
         print(
             card['link'],
             card['img'],
-            card['year'],  # Виводимо рік окремо
+            card['year'], 
             card['type'],
             card['genre'],
             card['authors'],
